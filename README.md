@@ -1,6 +1,4 @@
-# Oasis_Infobyte_Internship
-This reposition is created to upload all my internship tasks which have been assigned to me during my internship at Oasis Infobyte.
-## Task 1-Iris Classification
+# Iris Classification
 ### Preview of Dataset:
 - There are 150 observations with 4 features each (sepal length, sepal width, petal length, petal width).
 - There are no null values, so we don't have to worry about that.
